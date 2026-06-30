@@ -10,7 +10,7 @@
 
 ## Solutions 💯
 ├── Easy/
-       └── ✅ 11 solved
+       └── ✅ 13 solved
 
 ├── Medium/
        └── ✅ 0 solved
