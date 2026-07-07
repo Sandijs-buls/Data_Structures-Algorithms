@@ -10,10 +10,10 @@
 
 ## Solutions 💯
 ├── Easy/
-       └── ✅ 18 solved
+       └── ✅ 24 solved
 
 ├── Medium/
-       └── ✅ 0 solved
+       └── ✅ 2 solved
     
 └── Hard/
       └── ❌ 0 solved
