@@ -13,7 +13,7 @@
        └── ✅ 24 solved
 
 ├── Medium/
-       └── ✅ 2 solved
+       └── ✅ 4 solved
     
 └── Hard/
       └── ❌ 0 solved
