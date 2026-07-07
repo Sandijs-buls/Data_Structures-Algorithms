@@ -1,6 +1,6 @@
 ```python
 """
-Problem Number: 3461
+Problem Number: 2461
 Problem Title: Maximum Sum of Distinct Subarrays
 Summary: Given an integer array nums and an integer k, find the maximum sum
          of a subarray of length exactly k where all elements are distinct.
