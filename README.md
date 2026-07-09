@@ -5,8 +5,10 @@
  ---
 
 ## Topics covered ✅
-...
----
+Stack
+HashMaos 9ish)
+Binary Search
+Two pointers
 
 ## Solutions 💯
 ├── Easy/
