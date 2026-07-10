@@ -6,9 +6,10 @@
 
 ## Topics covered ✅
 Stack
-HashMaos 9ish)
+HashMaps (9ish)
 Binary Search
 Two pointers
+Strings (ish)
 
 ## Solutions 💯
 ├── Easy/
