@@ -6,7 +6,7 @@
 
 ## Topics covered ✅
 Stack
-HashMaps (9ish)
+HashMaps (ish)
 Binary Search
 Two pointers
 Strings (ish)
